@@ -7,8 +7,8 @@
 
 | Платформа | Версия | Прямая загрузка |
 | --- | --- | --- |
-| Android 8.0 и новее | 0.7.7 | [Скачать Judge.apk](https://judge-ormonov.web.app/download) |
-| Windows 10/11, 64-бит (x64) | 0.1.5 | [Скачать Judge-Setup.exe](https://github.com/ormonov0310-web/Judge-Releases/releases/latest/download/Judge-Setup.exe) |
+| Android 8.0 и новее | 0.7.9 | [Скачать Judge.apk](https://judge-ormonov.web.app/download) |
+| Windows 10/11, 64-бит (x64) | 0.1.6 | [Скачать Judge-Setup.exe](https://github.com/ormonov0310-web/Judge-Releases/releases/latest/download/Judge-Setup.exe) |
 
 Ссылки ведут прямо к файлам, без страницы релиза. После следующих выпусков
 они продолжат загружать актуальные установщики.
@@ -17,6 +17,13 @@
 [Judge.apk на GitHub](https://github.com/ormonov0310-web/Judge-Releases/releases/latest/download/Judge.apk).
 
 ## Установка и обновление
+
+### Официальный общий тест
+
+В Android и Windows общий тест имитирует официальный формат: 150 случайных
+вопросов и 120 минут. Можно выбрать отрасли права и отключить таймер. Начатые
+попытки сохраняются на устройстве: при выходе время ставится на паузу, а продолжение
+возвращает к тому же вопросу и тому же случайному набору.
 
 ### Обновление внутри Judge
 
