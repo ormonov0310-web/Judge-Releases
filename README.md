@@ -8,7 +8,7 @@
 | Платформа | Версия | Прямая загрузка |
 | --- | --- | --- |
 | Android 8.0 и новее | 0.8.0 | [Скачать Judge.apk](https://judge-ormonov.web.app/download) |
-| Windows 10/11, 64-бит (x64) | 0.1.8 | [Скачать Judge-Setup.exe](https://github.com/ormonov0310-web/Judge-Releases/releases/latest/download/Judge-Setup.exe) |
+| Windows 10/11, 64-бит (x64) | 0.1.9 | [Скачать Judge-Setup.exe](https://github.com/ormonov0310-web/Judge-Releases/releases/latest/download/Judge-Setup.exe) |
 
 Ссылки ведут прямо к файлам, без страницы релиза. После следующих выпусков
 они продолжат загружать актуальные установщики.
@@ -17,6 +17,13 @@
 [Judge.apk на GitHub](https://github.com/ormonov0310-web/Judge-Releases/releases/latest/download/Judge.apk).
 
 ## Установка и обновление
+
+### Что нового: Windows 0.1.9 — 06.10.2026
+
+Ускорена подготовка сохранённого прогресса при запуске. Уменьшена нагрузка
+при синхронизации и работе таймера. В «Инфо» → «Что нового» сохранён журнал
+обновлений: новые записи сверху, прежние ниже. Прогресс, продолжение тестов
+и автоматическая синхронизация сохранены. Android 0.8.0 остаётся без изменений.
 
 ### Что нового: Android 0.8.0 / Windows 0.1.8
 
